@@ -25,6 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
+
 <html>
 <head>
 <title> TIME TABLE </title>   
@@ -34,6 +35,7 @@ Execute the program using runserver command.
 <img src="/static/logo.png"height="100"width="540">
 </center>
 <br>
+<center>
 <table align="centre" border="6" bgcolor="pink" cellspacing="10" cellpadding="10">
 <caption> SLOT TIME TABLE - M.Hashwatha (212223240051) </caption>
 
@@ -52,13 +54,13 @@ Execute the program using runserver command.
    <td> Statistics </td>
    <td>  Free Slot</td>
    <td>  Free Slot </td>
-   <td> Web Applicaton </td>
+   <td> Fundamental of Web Applicaton </td>
    <td> Probability </td>
 </tr>
 <tr align="center">
     <th bgcolor="grey"> 10-12 </th>
     <td> Free Slot</td>
-    <td> Web Applicaton </td>
+    <td> Fundamental of Web Applicaton </td>
     <td> Free Slot</td>
     <td> Probability </td>
     <td> C programming </td>
@@ -82,14 +84,16 @@ Execute the program using runserver command.
     
     <td>  C Programming </td>
     <td> Free Slot </td>
-    <td> Web Applicaton </td>
+    <td> Fundamental of Web Applicaton </td>
     <td> Digital Electronics </td>
     <td> Free Slot </td>
     <td> Free Slot </td>
 </tr>
 </tr>
 </table>
+</center>
 <br>
+<center>
 <table border="7" cellspacing="10" cellpadding="10">
 <tr align="center">
 <th> S.NO. </th>
@@ -99,7 +103,7 @@ Execute the program using runserver command.
 <tr align="center">
 <td> 1. </td>
 <td> 19AI414 </td>
-<td> Web Applicaton </td>
+<td> Fundamental of Web Applicaton </td>
 </tr>
 <tr align="center">
 <td> 2. </td>
@@ -126,11 +130,13 @@ Execute the program using runserver command.
 <td> 19AI304 </td>
 <td> C Programming </td>
 </tr>
+</center>
 </html>
-```
 
+```
 ## OUTPUT
-![alt text](<Screenshot 2024-03-19 221650.png>)
+
+![alt text](<Screenshot 2024-03-22 082812.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
